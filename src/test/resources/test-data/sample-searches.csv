@@ -1,0 +1,10 @@
+Date^Time^TxnCode^OfficeID^Country^Origin^Destination^RoundTrip^NbSegments^Seg1Departure^Seg1Arrival^Seg1Date^Seg1Carrier^Seg1BookingCode^Seg2Departure^Seg2Arrival^Seg2Date^Seg2Carrier^Seg2BookingCode^Seg3Departure^Seg3Arrival^Seg3Date^Seg3Carrier^Seg3BookingCode^Seg4Departure^Seg4Arrival^Seg4Date^Seg4Carrier^Seg4BookingCode^Seg5Departure^Seg5Arrival^Seg5Date^Seg5Carrier^Seg5BookingCode^Seg6Departure^Seg6Arrival^Seg6Date^Seg6Carrier^Seg6BookingCode^From^IsPublishedForNeg^IsFromInternet^IsFromVista^TerminalID^InternetOffice
+2013-01-01^20:25:57^MPT^624d8c3ac0b3a7ca03e3c167e0f48327^DE^TXL^AUH^1^2^TXL^AUH^2013-01-26^D2^^AUH^TXL^2013-02-02^D2^^^^^^^^^^^^^^^^^^^^^^1ASIWS^0^0^0^d41d8cd98f00b204e9800998ecf8427e^FRA
+2013-01-01^10:15:33^MPT^b0af35b31588dc4ab06d5cf2986e8e02^MD^ATH^MIL^0^1^ATH^MIL^2013-01-04^^^^^^^^^^^^^^^^^^^^^^^^^^^^1ASIWS^0^0^0^d41d8cd98f00b204e9800998ecf8427e^KIV
+2013-01-01^18:04:49^MPT^3561a60621de06ab1badc8ca55699ef3^US^ICT^SFO^1^2^ICT^SFO^2013-08-02^^^SFO^ICT^2013-08-09^^^^^^^^^^^^^^^^^^^^^^^1ASIWS^0^0^0^d41d8cd98f00b204e9800998ecf8427e^NYC
+2013-01-01^17:42:40^FXP^1864e5e8013d9414150e91d26b6a558b^SE^RNB^ARN^0^1^RNB^ARN^2013-01-02^DU^W^^^^^^^^^^^^^^^^^^^^^^^^^^1ASI^0^0^0^d41d8cd98f00b204e9800998ecf8427e^STO
+2013-01-01^17:48:29^MPT^1ec336348f44207d2e0027dc3a68c118^NO^OSL^MAD^1^2^OSL^MAD^2013-03-22^^^MAD^OSL^2013-03-31^^^^^^^^^^^^^^^^^^^^^^^1ASIWS^0^0^0^d41d8cd98f00b204e9800998ecf8427e^OSL
+2013-01-01^22:00:28^MPT^3561a60621de06ab1badc8ca55699ef3^US^IAH^BLR^1^2^IAH^BLR^2013-02-14^^^BLR^IAH^2013-02-23^^^^^^^^^^^^^^^^^^^^^^^1ASIWS^0^0^0^d41d8cd98f00b204e9800998ecf8427e^NYC
+2013-01-01^10:47:14^MPT^d327ca6e35cc6732d4709828327ac7c1^DK^CPH^PAR^1^2^CPH^PAR^2013-03-02^^^PAR^CPH^2013-03-07^^^^^^^^^^^^^^^^^^^^^^^1ASI^0^0^0^d41d8cd98f00b204e9800998ecf8427e^CPH
+2013-01-01^23:39:49^MPT^38a3abb0a28e3f00fa79a11f552a5052^FR^PAR^DUB^1^2^PAR^DUB^2013-02-12^^^DUB^PAR^2013-02-17^^^^^^^^^^^^^^^^^^^^^^^1ASIWS^0^0^0^d41d8cd98f00b204e9800998ecf8427e^PAR
+2013-01-01^17:08:46^MPT^c8daef4f8bf73a61aa2c928705f7b82d^ES^NRT^SIN^1^2^DUS^ACE^2013-03-30^^^ACE^DUS^2013-04-06^^^^^^^^^^^^^^^^^^^^^^^1ASIWS^0^0^0^d41d8cd98f00b204e9800998ecf8427e^MAD

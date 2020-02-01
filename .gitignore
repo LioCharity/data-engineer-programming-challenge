@@ -1,0 +1,7 @@
+.idea
+target
+project
+spark-warehouse
+*.log
+metastore_db
+src/test/resources/output
